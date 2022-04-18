@@ -7,7 +7,7 @@
   <h2> SOBRE </h2>
     <p>
       Portal de filmes responsivo sobre a saga Harry Potter. <br>
-      Feito para a primeira entrega do trabalho da materia de DIW(Desenvolvimento de Interfaces Web) na PUC Minas.<br>
+      Feito para a entrega do trabalho da materia de DIW(Desenvolvimento de Interfaces Web) na PUC Minas.<br>
     </p>
     </div>
     <div>
