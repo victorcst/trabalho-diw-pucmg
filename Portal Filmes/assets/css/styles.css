@@ -744,11 +744,11 @@ button{
 /*=============== SCROLL BAR ===============*/
 ::-webkit-scrollbar{
   width: 0.6rem;
-  background: #413e3e;
+  background: hsl(280, 69%, 28%);
 }
 
 ::-webkit-scrollbar-thumb{
-  background: #272525;
+  background: hsl(280, 69%, 22%);
   border-radius: .5rem;
 }
 
